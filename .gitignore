@@ -1,0 +1,6 @@
+*
+!*/
+# This pattern ignores all files without an extension
+!*.*
+.DS_Store
+**/.DS_Store
