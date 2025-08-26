@@ -21,6 +21,6 @@ Also refer to this explanatory [video](https://youtu.be/jDzVFtFjaWY?si=TG5IGkbZ2
 Build a Pipeline CPU *without* Forwarding, You may refer to this [note](https://hackmd.io/@andychiang4105/Sk16n4OOee) as a reference.  
 Also refer to this explanatory [video](https://youtu.be/cY0NMzF0rhA?si=BHAUuFuumrFZuZmr) for further understanding.
 
-### Lab 4
+### Lab 5
 Build a Pipeline CPU *with* Forwarding, You may refer to this [note](https://hackmd.io/@andychiang4105/r1uMHOuOlx) as a reference.  
 Also refer to this explanatory [video](https://youtu.be/KrZ5ynWwVWU?si=M1dGH9ZIycSNJccR) for further understanding.
